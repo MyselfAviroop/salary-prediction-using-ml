@@ -24,25 +24,24 @@ Categorical variables such as job title, education level, and gender were transf
 ## 📊 Data Visualization  
 
 ### 🔝 Top 10 Highest Earning Professions  
-![Top 10 Highest Earning Professions](images/Top10.png)  
 *A bar chart illustrating the highest-paying job titles based on mean salary.*
 
 ---
 
 ### 📈 Distribution of Continuous Variables  
-![Distribution of Continuous Variables](images/Distribution.png)  
+
 *A histogram visualizing the distribution of age, years of experience, and salaries.*
 
 ---
 
 ### 🧑‍🎓 Distribution by Education and Gender  
-![Distribution of Education and Gender](images/ed&gender_distribution.png)  
+
 *A plot showing salary differences across education levels and gender categories.*
 
 ---
 
 ### 🔥 Correlation Heatmap  
-![Correlation Heatmap](images/Heatmap.png)  
+
 *A heatmap visualizing the correlation between all numerical features.*
 
 ---
@@ -118,3 +117,4 @@ This end-to-end project by **Aviroop Ghosh** demonstrates:
 You can easily test or extend this project using your own data.
 
 ### Steps to Use:
+git clone https://github.com/MyselfAviroop/salary-prediction-using-ml
